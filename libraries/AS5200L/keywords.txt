@@ -1,0 +1,25 @@
+AS5200L	KEYWORD1
+
+getRawAngle	KEYWORD2
+isRawAngleFromFastFilter KEYWORD2
+getAngle KEYWORD2
+isSlowFilterBusy KEYWORD2
+getStartPosition KEYWORD2
+setStartPosition KEYWORD2
+getStopPosition KEYWORD2
+setStopPosition KEYWORD2
+setPowerMode KEYWORD2
+setHysteresis KEYWORD2
+setPWMOutput KEYWORD2
+setSlowFilter KEYWORD2
+setFastFilter KEYWORD2
+setLPMTimer KEYWORD2
+magnetStatus KEYWORD2
+getGain KEYWORD2
+getMagnitude KEYWORD2
+isSensorOverflowed KEYWORD2
+burnAngle KEYWORD2
+burnSettings KEYWORD2
+
+bottomSensorAddress LITERAL1
+topSensorAddress LITERAL1
